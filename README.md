@@ -6,3 +6,4 @@
 # Test 5 - Associate with task
 # Test 6 change for closed task
 # Test 7 - change for TK-104675, closed in open sprint
+# Test 8 - closed story in closed sprint
