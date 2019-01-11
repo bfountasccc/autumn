@@ -8,3 +8,4 @@
 # Test 7 - change for TK-104675, closed in open sprint
 # Test 8 - closed story in closed sprint
 # Test 9 Story ID position in the commit comment
+# Test 10 change for story and task
